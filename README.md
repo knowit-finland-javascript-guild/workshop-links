@@ -62,3 +62,8 @@ The links are grouped per workshop for easier discoverability
 * [The original scientific paper introducing statecharts](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
 
 * [An example how to use xstate with redux](https://github.com/mattpocock/redux-xstate-poc)
+## Module federation
+*[Slides](https://knowit-my.sharepoint.com/:p:/g/personal/manuel_aullo-perez_knowit_fi/EaAloTDwvUFPipBZRSHVJ0oBs9uuApEag9Wh4-zw03RGww?e=Sr0j7W)
+*[Documentation](https://webpack.js.org/plugins/module-federation-plugin/#options)
+*[Some reading](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+*[]

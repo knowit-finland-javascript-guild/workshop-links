@@ -65,6 +65,8 @@ The links are grouped per workshop for easier discoverability
 
 ## Module federation
 
+* [Repo](https://github.com/KnowitJSTSGuild/module-federation)
+
 * [Slides](https://knowit-my.sharepoint.com/:p:/g/personal/manuel_aullo-perez_knowit_fi/EaAloTDwvUFPipBZRSHVJ0oBs9uuApEag9Wh4-zw03RGww?e=Sr0j7W)
 
 * [Documentation](https://webpack.js.org/plugins/module-federation-plugin/#options)
@@ -73,4 +75,3 @@ The links are grouped per workshop for easier discoverability
 
 * [Module federation examples](https://github.com/module-federation/module-federation-examples)
 
-* [Repo](https://github.com/KnowitJSTSGuild/module-federation)

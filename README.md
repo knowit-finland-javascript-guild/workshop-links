@@ -71,4 +71,6 @@ The links are grouped per workshop for easier discoverability
 
 * [Some reading](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 
-* []
+* [Module federation examples](https://github.com/module-federation/module-federation-examples)
+
+* [Repo](https://github.com/KnowitJSTSGuild/module-federation)

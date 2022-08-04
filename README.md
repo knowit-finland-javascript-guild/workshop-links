@@ -81,7 +81,11 @@ The links are grouped per workshop for easier discoverability
 
 **Further reading**
 
+[Micro Frontends](https://micro-frontends.org/)
+
 [Full Site Federation in Webpack 5](https://www.jackherrington.com/full-site-federation-in-webpack-5/)
+
+[Adopting a Micro-frontends architecture](https://medium.com/dazn-tech/adopting-a-micro-frontends-architecture-e283e6a3c4f3)
 
 [Micro Frontends From Beginner to Expert](https://www.linkedin.com/pulse/micro-frontends-from-begining-expert-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0)
 

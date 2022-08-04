@@ -73,5 +73,40 @@ The links are grouped per workshop for easier discoverability
 
 * [Some reading](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 
-* [Module federation examples](https://github.com/module-federation/module-federation-examples)
+* [Module federation examples repo](https://github.com/module-federation/module-federation-examples)
+
+* [Micro front ends](https://microfrontends.info/microfrontends/)
+
+* [Jack Herrington Youtube playlist](https://www.youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
+
+**Further reading**
+
+* [Micro Frontends From Beginner to Expert](https://www.linkedin.com/pulse/micro-frontends-from-begining-expert-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0)
+
+* [Micro Frontends What, Why, and How](https://www.linkedin.com/pulse/micro-frontends-what-why-how-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
+
+* [Understanding Micro Frontends With a Hands-On Example Using React, Webpack 5, and Module Federation](https://medium.com/nerd-for-tech/micro-front-ends-hands-on-project-63bd3327e162)
+
+* [Micro Frontends Hands-On Example Using React, Webpack 5, and Module Federation: Adding a third React Micro Frontend](https://medium.com/nerd-for-tech/micro-frontends-hands-on-example-using-react-webpack-5-and-module-federation-adding-a-third-2fe8c61a73f)
+
+* [Deploying Micro Frontends to AWS Step by Step Using React, Webpack 5, and Module Federation](https://www.linkedin.com/pulse/deploying-micro-frontends-aws-step-using-gitlab-react-rany)
+
+* [Understanding Micro-Frontends Webpack5 configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-configurations-rany)
+
+* [Understanding Micro-Frontends Webpack5 Module Federation configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-module-step-rany)
+
+* [Micro Frontends by Martin Fowler](https://martinfowler.com/articles/micro-frontends.html)
+
+* [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
+
+* [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513)
+
+* [Why Frontend Developers Need to be Webpack Experts](https://blog.bitsrc.io/why-frontend-developers-need-to-be-webpack-experts-32e734b6f04a)
+
+* [Micro-Frontends at scale (part 1)](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
+
+* [Frontend Architectural Patterns: Backends-For-Frontends](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
+
+
+
 

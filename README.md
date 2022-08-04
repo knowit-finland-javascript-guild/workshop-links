@@ -81,31 +81,33 @@ The links are grouped per workshop for easier discoverability
 
 **Further reading**
 
-* [Micro Frontends From Beginner to Expert](https://www.linkedin.com/pulse/micro-frontends-from-begining-expert-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0)
+[Full Site Federation in Webpack 5](https://www.jackherrington.com/full-site-federation-in-webpack-5/)
 
-* [Micro Frontends What, Why, and How](https://www.linkedin.com/pulse/micro-frontends-what-why-how-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
+[Micro Frontends From Beginner to Expert](https://www.linkedin.com/pulse/micro-frontends-from-begining-expert-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0)
 
-* [Understanding Micro Frontends With a Hands-On Example Using React, Webpack 5, and Module Federation](https://medium.com/nerd-for-tech/micro-front-ends-hands-on-project-63bd3327e162)
+[Micro Frontends What, Why, and How](https://www.linkedin.com/pulse/micro-frontends-what-why-how-rany-elhousieny-phd%E1%B4%AC%E1%B4%AE%E1%B4%B0/)
 
-* [Micro Frontends Hands-On Example Using React, Webpack 5, and Module Federation: Adding a third React Micro Frontend](https://medium.com/nerd-for-tech/micro-frontends-hands-on-example-using-react-webpack-5-and-module-federation-adding-a-third-2fe8c61a73f)
+[Understanding Micro Frontends With a Hands-On Example Using React, Webpack 5, and Module Federation](https://medium.com/nerd-for-tech/micro-front-ends-hands-on-project-63bd3327e162)
 
-* [Deploying Micro Frontends to AWS Step by Step Using React, Webpack 5, and Module Federation](https://www.linkedin.com/pulse/deploying-micro-frontends-aws-step-using-gitlab-react-rany)
+[Micro Frontends Hands-On Example Using React, Webpack 5, and Module Federation: Adding a third React Micro Frontend](https://medium.com/nerd-for-tech/micro-frontends-hands-on-example-using-react-webpack-5-and-module-federation-adding-a-third-2fe8c61a73f)
 
-* [Understanding Micro-Frontends Webpack5 configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-configurations-rany)
+[Deploying Micro Frontends to AWS Step by Step Using React, Webpack 5, and Module Federation](https://www.linkedin.com/pulse/deploying-micro-frontends-aws-step-using-gitlab-react-rany)
 
-* [Understanding Micro-Frontends Webpack5 Module Federation configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-module-step-rany)
+[Understanding Micro-Frontends Webpack5 configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-configurations-rany)
 
-* [Micro Frontends by Martin Fowler](https://martinfowler.com/articles/micro-frontends.html)
+[Understanding Micro-Frontends Webpack5 Module Federation configurations Step by Step](https://www.linkedin.com/pulse/understanding-micro-frontends-webpack5-module-step-rany)
 
-* [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
+[Micro Frontends by Martin Fowler](https://martinfowler.com/articles/micro-frontends.html)
 
-* [Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513)
+[11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
 
-* [Why Frontend Developers Need to be Webpack Experts](https://blog.bitsrc.io/why-frontend-developers-need-to-be-webpack-experts-32e734b6f04a)
+[Micro-frontends decisions framework](https://medium.com/@lucamezzalira/micro-frontends-decisions-framework-ebcd22256513)
 
-* [Micro-Frontends at scale (part 1)](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
+[Why Frontend Developers Need to be Webpack Experts](https://blog.bitsrc.io/why-frontend-developers-need-to-be-webpack-experts-32e734b6f04a)
 
-* [Frontend Architectural Patterns: Backends-For-Frontends](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
+[Micro-Frontends at scale (part 1)](https://medium.com/xgeeks/micro-frontends-at-scale-part-1-a8ab67bfb773)
+
+[Frontend Architectural Patterns: Backends-For-Frontends](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
 
 
 

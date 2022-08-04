@@ -81,6 +81,8 @@ The links are grouped per workshop for easier discoverability
 
 **Further reading**
 
+[Practical Module Federation](https://module-federation.myshopify.com/products/practical-module-federation)
+
 [Micro Frontends](https://micro-frontends.org/)
 
 [Full Site Federation in Webpack 5](https://www.jackherrington.com/full-site-federation-in-webpack-5/)

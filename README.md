@@ -115,6 +115,18 @@ The links are grouped per workshop for easier discoverability
 
 [Frontend Architectural Patterns: Backends-For-Frontends](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
 
+## Global State Management with Context API
 
+* [Repo](https://github.com/KnowitJSTSGuild/context-api-with-hooks)
+
+* [Slides](https://github.com/KnowitJSTSGuild/context-api-with-hooks/blob/master/Global%20state%20management%20with%20Context%20API%20in%20React.pdf)
+
+* [Context](https://reactjs.org/docs/context.html)
+
+**Further reading**
+
+* [Global state management](https://endertech.com/blog/using-reacts-context-api-for-global-state-management)
+
+* [useSyncExternalStore](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
 
 

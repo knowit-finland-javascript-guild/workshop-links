@@ -129,4 +129,8 @@ The links are grouped per workshop for easier discoverability
 
 * [useSyncExternalStore](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
 
+## React Finland 2022 recap
 
+### Kintsugi of programming
+
+* [Original talk](https://www.youtube.com/watch?v=zE8PDM_7xoQ&t=1346s&ab_channel=PaasitorniLive)

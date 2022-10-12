@@ -131,6 +131,10 @@ The links are grouped per workshop for easier discoverability
 
 ## React Finland 2022 recap
 
+* [Day 1](https://youtu.be/zE8PDM_7xoQ)
+
+* [Day 2](https://youtu.be/rHjwZu0EmlQ)
+
 ### Kintsugi of programming
 
 * [Original talk](https://www.youtube.com/watch?v=zE8PDM_7xoQ&t=1346s&ab_channel=PaasitorniLive)

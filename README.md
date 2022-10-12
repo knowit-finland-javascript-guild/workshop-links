@@ -134,3 +134,9 @@ The links are grouped per workshop for easier discoverability
 ### Kintsugi of programming
 
 * [Original talk](https://www.youtube.com/watch?v=zE8PDM_7xoQ&t=1346s&ab_channel=PaasitorniLive)
+
+### Good code
+
+### Storybook testing
+
+### Web Components

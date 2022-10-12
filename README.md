@@ -131,6 +131,8 @@ The links are grouped per workshop for easier discoverability
 
 ## React Finland 2022 recap
 
+* [Official site](https://react-finland.fi/2022/)
+
 * [Day 1](https://youtu.be/zE8PDM_7xoQ)
 
 * [Day 2](https://youtu.be/rHjwZu0EmlQ)

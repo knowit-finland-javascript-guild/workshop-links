@@ -145,6 +145,8 @@ The links are grouped per workshop for easier discoverability
 
 ### Good code
 
+* [Original talk](https://www.youtube.com/watch?v=NIhXfXJmJF8)
+
 ### Storybook testing
 
 * [Original talk](https://www.youtube.com/watch?v=8ACxWOjrTfs)

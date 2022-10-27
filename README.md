@@ -145,4 +145,7 @@ The links are grouped per workshop for easier discoverability
 
 ### Storybook testing
 
+* [Original talk](https://www.youtube.com/watch?v=8ACxWOjrTfs)
+* Demo repository: [KnowitJSTSGuild/storybook-interaction-testing](https://github.com/KnowitJSTSGuild/storybook-interaction-testing)
+
 ### Web Components

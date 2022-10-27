@@ -139,7 +139,9 @@ The links are grouped per workshop for easier discoverability
 
 ### Kintsugi of programming
 
-* [Original talk](https://www.youtube.com/watch?v=zE8PDM_7xoQ&t=1346s&ab_channel=PaasitorniLive)
+* [Original talk](https://www.youtube.com/watch?v=0ihYcjMhM-4&list=PL-a9lBflNu2ph1J-a19LNLo3GKikBDsWZ&index=3)
+
+* [Slides](https://drive.google.com/file/d/1ngA62J-w7Vyyq2kLPAjR9KLhcOdIL_4q/view?usp=sharing)
 
 ### Good code
 

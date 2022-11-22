@@ -5,79 +5,79 @@ The links are grouped per workshop for easier discoverability
 
 ## Reusable React Components
 
-* [Repo](https://github.com/KnowitJSTSGuild/reusable-react-components)
+- [Repo](https://github.com/KnowitJSTSGuild/reusable-react-components)
 
-* [Slides](https://github.com/KnowitJSTSGuild/reusable-react-components/blob/develop/Reusable_react_components_cleanup.pptx)
+- [Slides](https://github.com/KnowitJSTSGuild/reusable-react-components/blob/develop/Reusable_react_components_cleanup.pptx)
 
-* [Component Container pattern](https://reactpatterns.com/#container-component)
+- [Component Container pattern](https://reactpatterns.com/#container-component)
 
-* [Component Driven](https://www.componentdriven.org/)
+- [Component Driven](https://www.componentdriven.org/)
 
-* [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
 
 ## Vue.js for React developers
 
-* [Slides](https://xd.adobe.com/view/4a2bc58a-b5cf-45b3-ab5d-771d7ec9dd83-1f78/)
+- [Slides](https://xd.adobe.com/view/4a2bc58a-b5cf-45b3-ab5d-771d7ec9dd83-1f78/)
 
-* [Composition API Docs](https://vuejs.org/api/#composition-api)
+- [Composition API Docs](https://vuejs.org/api/#composition-api)
 
-* [Directives](https://vuejs.org/api/built-in-directives.html#v-text)
+- [Directives](https://vuejs.org/api/built-in-directives.html#v-text)
 
-* [Comparing React Hooks with Vue Composition API](https://dev.to/voluntadpear/comparing-react-hooks-with-vue-composition-api-4b32)
+- [Comparing React Hooks with Vue Composition API](https://dev.to/voluntadpear/comparing-react-hooks-with-vue-composition-api-4b32)
 
 ## Refactoring with Stratified Design
 
-* [Repo](https://github.com/KnowitJSTSGuild/refactoring-with-stratified-design)
+- [Repo](https://github.com/KnowitJSTSGuild/refactoring-with-stratified-design)
 
-* [Slides](https://github.com/KnowitJSTSGuild/refactoring-with-stratified-design/blob/master/slides-export.pdf)
+- [Slides](https://github.com/KnowitJSTSGuild/refactoring-with-stratified-design/blob/master/slides-export.pdf)
 
-* [slidev](https://sli.dev)
+- [slidev](https://sli.dev)
 
-* [vitest](https://vitest.dev)
+- [vitest](https://vitest.dev)
 
-* [Normand's book described here](https://www.manning.com/books/grokking-simplicity)
+- [Normand's book described here](https://www.manning.com/books/grokking-simplicity)
 
 ## UI Modeling with Statecharts
 
-* [Repo](https://github.com/KnowitJSTSGuild/ui-modeling-with-statecharts)
+- [Repo](https://github.com/KnowitJSTSGuild/ui-modeling-with-statecharts)
 
-* [Slides](https://github.com/KnowitJSTSGuild/ui-modeling-with-statecharts/blob/main/presentation/slides-export.pdf)
+- [Slides](https://github.com/KnowitJSTSGuild/ui-modeling-with-statecharts/blob/main/presentation/slides-export.pdf)
 
-* [Motivation](https://dev.to/mpocock1/usestate-vs-usereducer-vs-xstate-part-1-modals-569e)
+- [Motivation](https://dev.to/mpocock1/usestate-vs-usereducer-vs-xstate-part-1-modals-569e)
 
-* [Introduction to state mahines and statecharts from XState documentation](https://xstate.js.org/docs/guides/introduction-to-state-machines-and-statecharts)
+- [Introduction to state mahines and statecharts from XState documentation](https://xstate.js.org/docs/guides/introduction-to-state-machines-and-statecharts)
 
-* Videos 1,2,3,5,6,10 and 11 from Youtube playlist "[The Official Beginner's Guide to XState in React](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI)"
+- Videos 1,2,3,5,6,10 and 11 from Youtube playlist "[The Official Beginner's Guide to XState in React](https://www.youtube.com/playlist?list=PLvWgkXBB3dd4ocSi17y1JmMmz7S5cV8vI)"
 
-* [XState documentation](https://xstate.js.org/docs)
+- [XState documentation](https://xstate.js.org/docs)
 
-* [Stately editor (beta)](https://stately.ai/registry/new?source=landing-page)
+- [Stately editor (beta)](https://stately.ai/registry/new?source=landing-page)
 
-* [Introduction to state mahines and statecharts](https://xstate.js.org/docs/guides/introduction-to-state-machines-and-statecharts)
+- [Introduction to state mahines and statecharts](https://xstate.js.org/docs/guides/introduction-to-state-machines-and-statecharts)
 
-* [Statecharts.dev](https://statecharts.dev/)
+- [Statecharts.dev](https://statecharts.dev/)
 
-* [Stately.ai](https://stately.ai)
+- [Stately.ai](https://stately.ai)
 
-* [The original scientific paper introducing statecharts](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
+- [The original scientific paper introducing statecharts](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
 
-* [An example how to use xstate with redux](https://github.com/mattpocock/redux-xstate-poc)
+- [An example how to use xstate with redux](https://github.com/mattpocock/redux-xstate-poc)
 
 ## Module federation
 
-* [Repo](https://github.com/KnowitJSTSGuild/module-federation)
+- [Repo](https://github.com/KnowitJSTSGuild/module-federation)
 
-* [Slides](https://knowit-my.sharepoint.com/:p:/g/personal/manuel_aullo-perez_knowit_fi/EaAloTDwvUFPipBZRSHVJ0oBs9uuApEag9Wh4-zw03RGww?e=Sr0j7W)
+- [Slides](https://knowit-my.sharepoint.com/:p:/g/personal/manuel_aullo-perez_knowit_fi/EaAloTDwvUFPipBZRSHVJ0oBs9uuApEag9Wh4-zw03RGww?e=Sr0j7W)
 
-* [Documentation](https://webpack.js.org/plugins/module-federation-plugin/#options)
+- [Documentation](https://webpack.js.org/plugins/module-federation-plugin/#options)
 
-* [Some reading](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+- [Some reading](https://medium.com/swlh/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 
-* [Module federation examples repo](https://github.com/module-federation/module-federation-examples)
+- [Module federation examples repo](https://github.com/module-federation/module-federation-examples)
 
-* [Micro front ends](https://microfrontends.info/microfrontends/)
+- [Micro front ends](https://microfrontends.info/microfrontends/)
 
-* [Jack Herrington Youtube playlist](https://www.youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
+- [Jack Herrington Youtube playlist](https://www.youtube.com/watch?v=432thqUKs-Y&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1)
 
 **Further reading**
 
@@ -117,39 +117,45 @@ The links are grouped per workshop for easier discoverability
 
 ## Global State Management with Context API
 
-* [Repo](https://github.com/KnowitJSTSGuild/context-api-with-hooks)
+- [Repo](https://github.com/KnowitJSTSGuild/context-api-with-hooks)
 
-* [Slides](https://github.com/KnowitJSTSGuild/context-api-with-hooks/blob/master/Global%20state%20management%20with%20Context%20API%20in%20React.pdf)
+- [Slides](https://github.com/KnowitJSTSGuild/context-api-with-hooks/blob/master/Global%20state%20management%20with%20Context%20API%20in%20React.pdf)
 
-* [Context](https://reactjs.org/docs/context.html)
+- [Context](https://reactjs.org/docs/context.html)
 
 **Further reading**
 
-* [Global state management](https://endertech.com/blog/using-reacts-context-api-for-global-state-management)
+- [Global state management](https://endertech.com/blog/using-reacts-context-api-for-global-state-management)
 
-* [useSyncExternalStore](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
+- [useSyncExternalStore](https://blog.saeloun.com/2021/12/30/react-18-usesyncexternalstore-api)
 
 ## React Finland 2022 recap
 
-* [Official site](https://react-finland.fi/2022/)
+- [Official site](https://react-finland.fi/2022/)
 
-* [Day 1](https://youtu.be/zE8PDM_7xoQ)
+- [Day 1](https://youtu.be/zE8PDM_7xoQ)
 
-* [Day 2](https://youtu.be/rHjwZu0EmlQ)
+- [Day 2](https://youtu.be/rHjwZu0EmlQ)
 
 ### Kintsugi of programming
 
-* [Original talk](https://www.youtube.com/watch?v=0ihYcjMhM-4&list=PL-a9lBflNu2ph1J-a19LNLo3GKikBDsWZ&index=3)
+- [Original talk](https://www.youtube.com/watch?v=0ihYcjMhM-4&list=PL-a9lBflNu2ph1J-a19LNLo3GKikBDsWZ&index=3)
 
-* [Slides](https://drive.google.com/file/d/1ngA62J-w7Vyyq2kLPAjR9KLhcOdIL_4q/view?usp=sharing)
+- [Slides](https://drive.google.com/file/d/1ngA62J-w7Vyyq2kLPAjR9KLhcOdIL_4q/view?usp=sharing)
 
 ### Good code
 
-* [Original talk](https://www.youtube.com/watch?v=NIhXfXJmJF8)
+- [Original talk](https://www.youtube.com/watch?v=NIhXfXJmJF8)
 
 ### Storybook testing
 
-* [Original talk](https://www.youtube.com/watch?v=8ACxWOjrTfs)
-* Demo repository: [KnowitJSTSGuild/storybook-interaction-testing](https://github.com/KnowitJSTSGuild/storybook-interaction-testing)
+- [Original talk](https://www.youtube.com/watch?v=8ACxWOjrTfs)
+- Demo repository: [KnowitJSTSGuild/storybook-interaction-testing](https://github.com/KnowitJSTSGuild/storybook-interaction-testing)
 
 ### Web Components
+
+## Towards design systems: Introduction to Storybook
+
+- [Design system definition by NN Group](https://www.nngroup.com/articles/design-systems-101/)
+- [Storybook](https://storybook.js.org/)
+- [Component driven development](https://www.componentdriven.org/)

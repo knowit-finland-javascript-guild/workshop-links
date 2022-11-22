@@ -156,6 +156,11 @@ The links are grouped per workshop for easier discoverability
 
 ## Towards design systems: Introduction to Storybook
 
+- [Repo](https://github.com/KnowitJSTSGuild/introduction-to-storybook)
+- [Background](https://github.com/KnowitJSTSGuild/introduction-to-storybook/blob/master/src/docs/designSystem.stories.mdx)
+- [Workshop tasks](https://github.com/KnowitJSTSGuild/introduction-to-storybook/blob/master/src/docs/workshopTasks.stories.mdx)
+- [Storybook docs](https://github.com/KnowitJSTSGuild/introduction-to-storybook/blob/master/src/docs/Introduction.stories.mdx)
+
 - [Design system definition by NN Group](https://www.nngroup.com/articles/design-systems-101/)
 - [Storybook](https://storybook.js.org/)
 - [Component driven development](https://www.componentdriven.org/)
